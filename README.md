@@ -1,1 +1,7 @@
-# designmanual
+# Designmanual
+
+## Logo
+
+## Farger
+
+## Font
