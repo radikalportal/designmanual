@@ -4,4 +4,6 @@
 
 ## Farger
 
+Hex: #ef4030
+
 ## Font
