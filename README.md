@@ -2,6 +2,9 @@
 
 ## Logo
 
+### Kvadratisk
+### Avlang
+
 ## Farger
 
 ### Primærfarge
@@ -33,3 +36,9 @@
 | Svart       | #000000 | rgb(0, 0, 0) | cmyk(75, 68, 67, 90) |
 
 ## Font
+
+## Bilder
+
+### Sideforhold
+
+16:10
