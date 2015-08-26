@@ -37,6 +37,9 @@
 
 ## Font
 
+- Sans serif i overskrifter
+- Serif i brødtekst
+
 ## Bilder
 
 ### Sideforhold
