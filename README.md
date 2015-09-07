@@ -1,4 +1,4 @@
-# Designmanual (Under utvikling)
+# Designmanual
 
 ## Logo
 
