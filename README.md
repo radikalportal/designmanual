@@ -3,7 +3,12 @@
 ## Logo
 
 ### Kvadratisk
+
+![](logo-kvadrat.png)
+
 ### Avlang
+
+![](logo-avlang.png)
 
 ## Farger
 
