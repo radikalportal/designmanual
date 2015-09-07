@@ -42,8 +42,12 @@
 
 ## Font
 
-- Sans serif i overskrifter
-- Serif i brødtekst
+- Open Sans Semibold i logo
+- Open Sans Bold i overskrifter
+- Noto Serif Bold i ingress
+- Noto Serif Regular i brødtekst
+
+![](typografi.png)
 
 ## Bilder
 
