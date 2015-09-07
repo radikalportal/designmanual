@@ -2,17 +2,17 @@
 
 ## Logo
 
-### Favicon
+### Avlang
 
-![](logo-favicon.png)
+![](logo-avlang.png)
 
 ### Kvadratisk
 
 ![](logo-kvadrat.png)
 
-### Avlang
+### Favicon
 
-![](logo-avlang.png)
+![](logo-favicon.png)
 
 ## Farger
 
