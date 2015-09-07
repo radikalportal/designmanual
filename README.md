@@ -49,4 +49,6 @@
 
 ### Sideforhold
 
-16:10
+Bilder skal enten være i 16:10 eller 1:1 format.
+
+![](sideforhold.png)
