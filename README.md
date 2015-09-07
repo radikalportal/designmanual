@@ -2,6 +2,10 @@
 
 ## Logo
 
+### Favicon
+
+![](logo-favicon.png)
+
 ### Kvadratisk
 
 ![](logo-kvadrat.png)
